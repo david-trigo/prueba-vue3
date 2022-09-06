@@ -7,7 +7,7 @@
 - [x] [Element Plus](https://element-plus.org/)
 
 
-## Elementos de Element Plus utilizados en la prueba:
+## Elementos de Element Plus utilizados en la prueb
 - [x] [Button](https://element-plus.org/en-US/component/button.html)
 - [x] [Table](https://element-plus.org/en-US/component/table.html)
 - [x] [TableColumn](https://element-plus.org/en-US/component/table.html)
@@ -24,7 +24,7 @@
 - [x] [Loading](https://element-plus.org/en-US/component/loading.html)
 
 
-## Respondiendo a la pregunta sobre el escenario propuesto:
+## Respondiendo a la pregunta sobre el escenario propuesto
 Para el ejemplo en cuestion simplemente con utilizar localStorage o almacenar los usuarios como cookie podría bastar.
 
 De cara a producto de empresa me plantearía hacer uso de IndexedDB, un sistema de base de datos transaccional que MDN describe como "una base de datos orientada a objetos basada en JavaScript", permitiendo almacenar y recuperar objetos que están indexados con una clave.
@@ -65,6 +65,14 @@ npm install @element-plus/icons-vue
 
 
 Me gustaría haber añadido también reglas (rules) y hacer uso de required en los inputs del formulario de nuevo usuario, pero creo que ya era extender la prueba demasiado.
+
+
+## Capturas de pantalla
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
+![screenshot3](screenshot3.png)
+![screenshot4](screenshot4.png)
+![screenshot5](screenshot5.png)
 
 
 ## Project setup
